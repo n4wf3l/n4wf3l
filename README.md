@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/wS9f24Q/Nawfel-Ajr-PNG.jpg)
 <h1 align="center">Hi 👋, I'm Nawfel Ajari</h1>
 <h3 align="center">A passionate frontend developer from Belgium 🇧🇪</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.webp">
 <p align="left"> <a href="https://twitter.com/ajarinawfel" target="blank"><img src="https://img.shields.io/twitter/follow/ajarinawfel?logo=twitter&style=for-the-badge" alt="ajarinawfel" /></a> </p>
 
 - 🔭 I’m currently working on **PlayersGenerator**
