@@ -1,4 +1,4 @@
-![MasterHead](https://www.zupimages.net/up/22/48/tyvc.png)
+![MasterHead](https://i.ibb.co/wS9f24Q/Nawfel-Ajr-PNG.jpg)
 <h1 align="center">Hi 👋, I'm Nawfel Ajari</h1>
 <h3 align="center">A passionate frontend developer from Belgium</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3otv.gif">
