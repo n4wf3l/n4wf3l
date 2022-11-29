@@ -6,6 +6,7 @@
 - I am a Belgian student and developer who aims to create and develop several applications and websites by linking my coding knowledge with football and sport. The integration of API's plays a big role in my projects. All this is purely based on a double passion. You can find in my repositories two projects related to football: A typical eleven of the week (only Jupiler Pro League) coded with Javascript and an application 'PlayersGenerator' for RSC Anderlecht allowing to manage the players, the staff and the coach with several other features, coded on Visual Studio in C#.
 
 <p align="left"> <a href="https://twitter.com/ajarinawfel" target="blank"><img src="https://img.shields.io/twitter/follow/ajarinawfel?logo=twitter&style=for-the-badge" alt="ajarinawfel" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/06nDxb3AwEbNbKzG8P/giphy.gif?cid=ecf05e47m6plmv3kfbzsz5tyf253d4ao1meq87vq8e1twhrp&rid=giphy.gif&ct=g">
 
 - ⚽ 𝐿𝑖𝑛𝑘𝑖𝑛𝑔 𝑠𝑝𝑜𝑟𝑡 𝑎𝑛𝑑 𝑓𝑜𝑜𝑡𝑏𝑎𝑙𝑙 𝑡𝑜 𝐼𝑇 𝑎𝑛𝑑 𝑐𝑜𝑑𝑖𝑛𝑔!
 
