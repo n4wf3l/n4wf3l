@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.webp">
 <p align="left"> <a href="https://twitter.com/ajarinawfel" target="blank"><img src="https://img.shields.io/twitter/follow/ajarinawfel?logo=twitter&style=for-the-badge" alt="ajarinawfel" /></a> </p>
 
+- ⚽ 𝐿𝑖𝑛𝑘𝑖𝑛𝑔 𝑠𝑝𝑜𝑟𝑡 𝑎𝑛𝑑 𝑓𝑜𝑜𝑡𝑏𝑎𝑙𝑙 𝑡𝑜 𝐼𝑇 𝑎𝑛𝑑 𝑐𝑜𝑑𝑖𝑛𝑔!
+
 - 🔭 I’m currently working on **PlayersGenerator**
 
 - 🌱 I’m currently learning **.NET Frameworks**
