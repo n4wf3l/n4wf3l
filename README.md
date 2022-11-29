@@ -16,7 +16,7 @@
 
 - 📫 How to reach me ? **ajari.nawfel@hotmail.com**
 
-- 📄 Know about my experiences on **[https://www.linkedin.com/in/nawfel-ajari-8a26471a4/](LinkedIn)**
+- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/nawfel-ajari-8a26471a4/)**
 
 - ⚡ Fun fact : **I am passionate about football !**
 
