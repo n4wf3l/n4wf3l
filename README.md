@@ -10,15 +10,15 @@
 
 - 👯 I’m looking to collaborate on **GreenBRU!**
 
-- 📝 I regularly write articles on [www.dmsport.be](www.dmsport.be)
+- 📝 I regularly write articles on **[www.dmsport.be](www.dmsport.be)**
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me **ajari.nawfel@hotmail.com**
+- 📫 How to reach me ? **ajari.nawfel@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nawfel-ajari-8a26471a4/](https://www.linkedin.com/in/nawfel-ajari-8a26471a4/)
+- 📄 Know about my experiences on **[https://www.linkedin.com/in/nawfel-ajari-8a26471a4/](LinkedIn)**
 
-- ⚡ Fun fact **I am passionate about football !**
+- ⚡ Fun fact : **I am passionate about football !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
