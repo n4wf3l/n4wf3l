@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **GreenBRU!**
 
-- 📝 I regularly write articles on **[www.dmsport.be](www.dmsport.be)**
-
 - 💬 Multilingual : 🇳🇱🇫🇷🇬🇧
 
 - 📫 How to reach me ? **ajari.nawfel@hotmail.com**
