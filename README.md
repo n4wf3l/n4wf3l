@@ -8,21 +8,7 @@
 <p align="left"> <a href="https://twitter.com/ajarinawfel" target="blank"><img src="https://img.shields.io/twitter/follow/ajarinawfel?logo=twitter&style=for-the-badge" alt="ajarinawfel" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/06nDxb3AwEbNbKzG8P/giphy.gif?cid=ecf05e47m6plmv3kfbzsz5tyf253d4ao1meq87vq8e1twhrp&rid=giphy.gif&ct=g">
 
-- ⚽ 𝐿𝑖𝑛𝑘𝑖𝑛𝑔 𝑠𝑝𝑜𝑟𝑡 𝑎𝑛𝑑 𝑓𝑜𝑜𝑡𝑏𝑎𝑙𝑙 𝑡𝑜 𝐼𝑇 𝑎𝑛𝑑 𝑐𝑜𝑑𝑖𝑛𝑔!
-
-- 🔭 I’m currently working on **PlayersGenerator**
-
-- 🌱 I’m currently learning **.NET Frameworks**
-
-- 👯 I’m looking to collaborate on **GreenBRU!**
-
 - 💬 Multilingual : 🇳🇱🇫🇷🇬🇧
-
-- 📫 How to reach me ? **ajari.nawfel@hotmail.com**
-
-- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/nawfel-ajari-8a26471a4/)**
-
-- ⚡ Fun fact : **I am passionate about football !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
