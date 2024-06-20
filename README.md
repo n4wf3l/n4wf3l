@@ -5,8 +5,8 @@ I'm Nawfel Ajari, a passionate developer specializing in Laravel 10. I'm constan
 ## About Me
 
 - 💼 I'm currently studying at Erasmushogeschool Brussel.
-- 🎓 I have a background in Erasmushogeschool Brussel.
-- 🌱 Currently, I'm learning Flutter.
+- 🎓 I have a background in Programming.
+- 🌱 Currently, I'm learning React and NextJS.
 - 🗣️ Multilingual : English, French and Dutch.
 - 💬 Feel free to contact me to discuss anything related to software development.
 
@@ -24,7 +24,7 @@ Feel free to explore my repositories to discover more interesting projects!
 
 - 💬 [LinkedIn](https://linkedin.com/in/nawfel-ajari)
 - 📧 [Email Address](nawfel.ajari@student.ehb.be)
-- 🌐 [Personal Website](www.nawfelajari.be)
+- 🌐 [Personal Website](www.nainnovations.be)
 - 🐦 [Twitter](https://twitter.com/ajarinawfel)
 
 Feel free to follow me on social media and reach out if you have any questions or potential collaborations!
