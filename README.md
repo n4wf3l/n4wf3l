@@ -24,6 +24,8 @@ Here are some of my recent projects:
 
 Feel free to explore my repositories to discover more interesting projects!
 
+[![Watch the video](https://img.youtube.com/vi/AHnA9_U4K5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=AHnA9_U4K5o)
+
 ## Contact Me
 
 - 💬 [LinkedIn](https://linkedin.com/in/nawfel-ajari)
