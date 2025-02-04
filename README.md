@@ -1,6 +1,6 @@
 # Welcome to My Digital Playground 🎯
 
-I'm Nawfel Ajari, a passionate developer specializing in Laravel 10. I'm constantly learning and exploring new things in the world of software development.
+I'm Nawfel Ajari, a passionate developer specializing in Laravel 11. I'm constantly learning and exploring new things in the world of software development.
 
 Explore my public projects! 🚀 Some of my work isn't visible as it's part of private GitHub organizations where I've contributed as a developer.
 
